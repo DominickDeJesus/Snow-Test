@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_embedded_help_role">
+    <sys_embedded_help_role action="INSERT_OR_UPDATE">
+        <order>10</order>
+        <role display_value="x_675034_test.admin" name="x_675034_test.admin">4cca517347b021109d978f85d36d4379</role>
+        <sys_class_name>sys_embedded_help_role</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-02-10 17:06:11</sys_created_on>
+        <sys_id>48ca517347b021109d978f85d36d437b</sys_id>
+        <sys_name>4cca517347b021109d978f85d36d4379</sys_name>
+        <sys_package display_value="TEST" source="x_675034_test">08ca517347b021109d978f85d36d4374</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="TEST">08ca517347b021109d978f85d36d4374</sys_scope>
+        <sys_update_name>sys_embedded_help_role_48ca517347b021109d978f85d36d437b</sys_update_name>
+    </sys_embedded_help_role>
+</record_update>
